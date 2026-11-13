@@ -14,10 +14,10 @@ resources:
 images:
 - name: PROJECT/BROADCASTER
   newName: faidercamilo/broadcaster
-  newTag: 2ab93f8e82b402d05d71a8ce67dfe34c342477ff
+  newTag: f7c53792fbe7b1023bb736d4f7067749859c05de
 - name: PROJECT/TODO_APP
   newName: faidercamilo/todo-app
-  newTag: 2ab93f8e82b402d05d71a8ce67dfe34c342477ff
+  newTag: f7c53792fbe7b1023bb736d4f7067749859c05de
 - name: PROJECT/TODO_BACKEND
   newName: faidercamilo/todo-backend
-  newTag: 2ab93f8e82b402d05d71a8ce67dfe34c342477ff
+  newTag: f7c53792fbe7b1023bb736d4f7067749859c05de
